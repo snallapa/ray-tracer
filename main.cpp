@@ -75,9 +75,9 @@ hitable* random_scene() {
 }
 
 int main(int argc, const char * argv[]) {
-    int nx = 400;
-    int ny = 200;
-    int ns = 200;
+    int nx = 800;
+    int ny = 400;
+    int ns = 400;
     std::cout << "P3\n" << nx << " " << ny << "\n255\n";
     vec3 lower_left_corner(-2.0, -1.0, -1.0);
     vec3 horizontal(4.0, 0.0, 0.0);

@@ -5,4 +5,4 @@ Start:
 ![alt text](./start.png)
 
 Finished:
-![alt text](./finish.png)
+![alt text](./finish.jpeg)
